@@ -10,7 +10,7 @@ Make your own Admin CSS with a little help from COLOURlovers. Edit, tweak and sa
 
 The **Admin CSS Designer** is an addictive plugin that will pull colorful palettes from COLOURlovers.com and make admin CSS for you. You can make, edit and tweak your admin CSS real time and visually, with no coding involved.
 
-For a more detailed documentation, screenshots of the interface and a video tutorial, please visit its official page: [Absolute Comments](http://planetozh.com/blog/my-projects/admin-css-designer-tool-colourlover-wordpress-plugin/ "Admin CSS Designer")
+For a more detailed documentation, screenshots of the interface and a video tutorial, please visit its official page: [Admin CSS Designer](http://planetozh.com/blog/my-projects/admin-css-designer-tool-colourlover-wordpress-plugin/ "Admin CSS Designer")
 
 **Tip:** To keep track of this plugin's evolution and features, you are advised to subscribe to the [author's feed](http://planetozh.com/exit/feed)
 
