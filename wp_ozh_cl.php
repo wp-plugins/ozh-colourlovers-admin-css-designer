@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ozh & &hearts;COLOURlovers Admin CSS Designer
-Plugin URI: http://planetozh.com/blog/my-projects/colourlovers-plugin-admin-css-designer/
+Plugin URI: http://planetozh.com/blog/my-projects/admin-css-designer-tool-colourlover-wordpress-plugin/
 Description: Pull colorful palettes from <a href="http://www.colourlovers.com/">COLOURlovers</a> and make your own Admin Color Scheme. Edit, tweak and save real time! Check the <a href="options-general.php?page=ozh_colourlovers">Options</a> then head to your <a href="profile.php">Profile</a> to start playing.
 Author: Ozh
 Version: 1.0
