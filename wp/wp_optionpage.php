@@ -40,7 +40,7 @@ function wp_ozh_cl_adminpage_print() {
 	$palette = ozh_cl_get_random_palette(366287, false);
 	$url = $palette['url'];
 	$imageurl = $palette['imageurl'];
-	$blog = get_settings('siteurl');
+	$blog = get_option('siteurl');
 	
 	$dobg = $wp_ozh_cl['dobg'];
 	//$minlevel = $wp_ozh_cl['minlevel'];
