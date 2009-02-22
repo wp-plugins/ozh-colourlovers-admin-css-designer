@@ -1,6 +1,7 @@
 === Ozh & COLOURlovers' Admin CSS Designer ===
 Tags: colour, color, color scheme, css, tool, stylesheet, ozh, colourlover
 Requires at least: 2.5
+Tested up to: 2.6.5
 Stable tag: trunk
 Donate link: http://planetozh.com/exit/donate
 
