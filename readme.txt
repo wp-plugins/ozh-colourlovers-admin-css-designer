@@ -4,6 +4,7 @@ Requires at least: 2.5
 Tested up to: 2.6.5
 Stable tag: trunk
 Donate link: http://planetozh.com/exit/donate
+Contributors: ozh
 
 Make your own Admin CSS with a little help from COLOURlovers. Edit, tweak and save CSS real time!
 
